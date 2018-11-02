@@ -1,0 +1,1 @@
+Name: Sasank MatavalamStudent ID: 012538903Email: sasank196@gmail.comSteps to run the Application:* Download and unzip the folder.* Open the Eclipse IDE and create a new package by the name of sasank and open the unzipped folder from that package.* Open the MainApp Java Class and run the application and you can see the output “Hello World from Alice” in the console.
